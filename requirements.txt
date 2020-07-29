@@ -4,5 +4,5 @@ fastapi==0.52.0
 h11==0.9.0
 pydantic==1.4
 starlette==0.13.2
-uvicorn==0.11.3
+uvicorn==0.11.7
 websockets==8.1
